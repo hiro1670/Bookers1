@@ -13,3 +13,41 @@
  *= require_tree .
  *= require_self
  */
+h1 {
+  font-size: 25px;
+  margin: 25px;
+}
+
+p {
+  margin: 25px;
+  font-size: 15px;
+}
+
+th {
+  font-size: 15px;
+  padding-bottom: 5px;
+}
+
+td {
+  padding-left: 20px;
+  padding-bottom: 5px;
+  font-size: 13px;
+}
+
+.book-new {
+  padding-left: 20px;
+}
+
+.book-show {
+  display:flex;
+}
+
+strong {
+  font-size: 15px;
+  padding-right: 7px;
+  padding-left: 20px;
+}
+
+.book-edit {
+  margin-left: 20px;
+}
